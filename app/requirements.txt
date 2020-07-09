@@ -5,7 +5,7 @@ flask-restplus>=0.10.1
 Flask-Cors==3.0.2
 
 SQLAlchemy==1.1.5
-SQLAlchemy-Utils==0.32.12
+SQLAlchemy-Utils==0.36.8
 Flask-SQLAlchemy==2.2
 Alembic==0.8.10
 werkzeug==0.11.15
