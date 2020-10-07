@@ -22,7 +22,7 @@ Flask-OAuthlib>=0.9.4
 Flask-Login==0.4.0
 permission==0.4.1
 
-arrow==0.8.0
+arrow==0.17.0
 
 six
 enum34; python_version < '3.4'
